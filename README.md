@@ -7,6 +7,7 @@ My notes and code example studied while understanding CUDA.
 - CUDA Toolkit
 - Clang
 - Ninja
+- GTest
 
 ## Build
 
@@ -17,4 +18,4 @@ make all
 ```
 
 Built code examples can be found at
-`build/Code`.
+`build/src`.

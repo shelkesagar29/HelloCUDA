@@ -1,5 +1,5 @@
-#include "cuda_runtime.h"
-#include <iostream>
+#include <cstdio>
+#include <cuda_runtime_api.h>
 
 __global__ void cuda_hello() { printf("Hello CUDA!\n"); }
 

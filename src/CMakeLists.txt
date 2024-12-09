@@ -1,0 +1,5 @@
+add_subdirectory(DeviceInfo)
+add_subdirectory(GEMM)
+add_subdirectory(HelloCuda)
+add_subdirectory(Pointwise)
+add_subdirectory(Utils)
