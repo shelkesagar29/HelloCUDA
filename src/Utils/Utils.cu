@@ -138,5 +138,3 @@ void printMatrix(const float *mat, int m, int n) {
   }
   printf("]\n");
 }
-
-int add_two(int a, int b) { return a + b; }
