@@ -1,3 +1,4 @@
+#include "src/GEMM/GemmNaive.cuh"
 #include "src/Utils/Utils.cuh"
 #include <cstdio>
 #include <cuda_runtime.h>

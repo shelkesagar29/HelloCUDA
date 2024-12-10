@@ -56,3 +56,9 @@ Pointwise addition example.
 
 - **Utils**  
 Some useful utilities.
+
+## Intution
+
+<div style="overflow: scroll; width: 800px; height: 800px;">
+  <img src="assets/MentalModel.svg" />
+</div>

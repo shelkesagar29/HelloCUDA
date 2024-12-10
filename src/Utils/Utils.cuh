@@ -1,5 +1,5 @@
-#ifndef HELLOCUDA_CODE_UTILS_UTILS_H
-#define HELLOCUDA_CODE_UTILS_UTILS_H
+#ifndef HELLOCUDA_SRC_UTILS_UTILS_H
+#define HELLOCUDA_SRC_UTILS_UTILS_H
 
 #include <cstdint>
 #include <cuda_runtime_api.h>
@@ -139,6 +139,4 @@ void printMatrix(const float *mat, int m, int n);
 
 #define CEIL_DIV(M, N) ((M) + (N) - 1) / (N)
 
-int add_two(int a, int b);
-
-#endif // HELLOCUDA_CODE_UTILS_UTILS_H
+#endif // HELLOCUDA_SRC_UTILS_UTILS_H
